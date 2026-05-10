@@ -37,7 +37,7 @@ This project implements a 1-channel digital oscilloscope using the FRDM-KL25Z mi
 This project was developed collaboratively as part of an embedded systems engineering project.
 
 ## Authors
- Mulualem Ayena
+ Mulualem Ayena &
  Vincent Kibarar
 
 M.S. Electrical Engineering  
