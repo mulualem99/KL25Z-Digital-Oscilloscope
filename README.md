@@ -40,5 +40,4 @@ This project was developed collaboratively as part of an embedded systems engine
  Mulualem Ayena &
  Vincent Kibarar
 
-M.S. Electrical Engineering  
-The Catholic University of America
+Electrical Engineer | Power Systems | Electrical Design | Embedded Systems
